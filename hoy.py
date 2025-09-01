@@ -21,7 +21,7 @@ import os, sys
 channel_link = "https://whatsapp.com/channel/0029Vb6d5lB6hENw6TLYrO3h"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["KAMRUL"]
+approved_keys = ["KAMRUL2025"]
 
 def first_step():
     os.system("clear")
@@ -36,7 +36,7 @@ def first_step():
     # Yeh direct WhatsApp channel open karega
     os.system(f"xdg-open {channel_link}")
 
-    input("\n[↩] chanel par key hy follow de do or use kar...")
+    input("\n[↩] chanel par key hy follow de do or use karo...")
 
 def check_key():
     user_key = input("\n[?] Enter your key: ")
@@ -193,7 +193,7 @@ def window1():
 sys.stdout.write('\x1b]2;𓆩【 K A M R U L 】𓆪 \x07')
 
 
-    # BOSS Clover Logo - Green - Version 3.0
+    # BOSS Clover Logo - Green - Version 3.1
 def ____banner____():
     if 'win' in sys.platform:
         os.system('cls')
@@ -204,7 +204,7 @@ def ____banner____():
         
  ██╗  ██╗ █████╗ ███╗   ███╗██████╗ ██╗   ██╗██╗     
 ██║ ██╔╝██╔══██╗████╗ ████║██╔══██╗██║   ██║██║     
-█████╔╝ ███████║██╔████╔██║██████╔╝██║   ██║██║     
+█████╔╝ ███████║██╔████╔██║██████╔╝██║   ██║██║     ✅
 ██╔═██╗ ██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║██║     ❤️
 ██║  ██╗██║  ██║██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
