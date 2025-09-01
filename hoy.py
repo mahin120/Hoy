@@ -193,7 +193,7 @@ def window1():
 sys.stdout.write('\x1b]2;𓆩【 K A M R U L 】𓆪 \x07')
 
 
-    # BOSS Clover Logo - Green - Version 3.1
+    # KAMRUL Clover Logo - Green - Version 3.2
 def ____banner____():
     if 'win' in sys.platform:
         os.system('cls')
